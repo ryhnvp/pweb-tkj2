@@ -8,7 +8,8 @@ Belajar Pemrograman Web bersama Pak **Vhe**
 - [ ] > [Latihan 4](lat4.html) - List di HTML
 - [ ] > [Latihan 5](lat5.html) - Praktikum Chapter 1
 ### Chapter 2 - Link dan Tabel
-- [ ] > [Latihan 6](latihan6.html) - Membuat Link di HTML
+- [ ] > [Latihan 6](biodata) - Membuat Link di HTML
+- [ ] > [Latihan 6 (GDrive)](https://drive.google.com/drive/folders/1ZSgz5Gd9Bi8jDawrSvBTC0y9wew0AtPx) - Membuat Link di HTML
 - [ ] > [Latihan 7](latihan7.html) - Membuat Tabel
 ### Chapter 3 - Form
 - [ ] > [Latihan 8](latihan8.html) - Field Task dan Password
