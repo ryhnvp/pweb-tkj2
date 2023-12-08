@@ -1,0 +1,19 @@
+.judol {
+    color: #ff0000;
+}
+
+p {
+    font-size: large;
+}
+.salah {
+    color: teal;
+}
+
+.hov {
+    background-color: rgb(167, 165, 165);
+    padding: 8px 16px;
+    color: green;
+}
+.hov:hover {
+    color: orange;
+}
