@@ -21,3 +21,4 @@ Belajar Pemrograman Web bersama Pak **Vhe**
 ### Chapter 4 - CSS
 - [ ] > [Latihan 13](latihan13.html) - Pengenalan CSS
 - [ ] > [Latihan 14](latihan14) - Pemanfaatan Selector dan Properti Color
+- [ ] > [Latihan 15](latihan15) - Pemanfaatan Selector dan Properti Background
